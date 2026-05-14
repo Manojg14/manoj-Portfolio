@@ -1,2 +1,2 @@
-django
-gunicorn
+Django==5.2.1
+gunicorn==23.0.0
